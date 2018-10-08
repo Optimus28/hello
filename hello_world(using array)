@@ -1,0 +1,17 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int x=0;
+    x=0;
+char txt[20]={' ',' ','H','e','l','l','o',' ','W','o','r','l','d','!'};
+while(txt[x]!='!')
+{
+     cout<<txt[x] ;  
+     x++;
+}
+
+    return 0;
+}
