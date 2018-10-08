@@ -1,6 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
-cout<<"hello world";
-return 0;
+cout<<"Hello World"; //Simple Code
 }
